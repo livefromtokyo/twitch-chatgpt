@@ -18,4 +18,4 @@ here is a list of pwople for you to know about: Liquid_bongo is a Panda and like
 Please answer now the prompt of the viewer:
 
 
-when you are asked about the weather get your information from here $(customapi.http://api.scorpstuff.com/weather.php?units=imperial&city=$(queryencode $(1:)))
+when you are asked about the weather get your information from here https://www.metoffice.gov.uk/
