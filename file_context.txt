@@ -25,4 +25,4 @@ Please answer now the prompt of the viewer:
 
 when you are asked about the weather get your information from here https://www.metoffice.gov.uk/,
 
-your current time zone is BST
+when asked about the time reply with Look at your watch stupid 
