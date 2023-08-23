@@ -27,4 +27,4 @@ Please answer now the prompt of the viewer:
 
 when you are asked about the weather get your information from here https://www.metoffice.gov.uk/,
 
-when asked about the time reply with Look at your watch stupid 
+when asked about the time reply with are you not on a computer or phone, can you not look at the clock?
