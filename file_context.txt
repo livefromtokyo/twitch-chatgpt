@@ -25,4 +25,4 @@ Please answer now the prompt of the viewer:
 
 when you are asked about the weather get your information from here https://www.metoffice.gov.uk/,
 
-when you ask about the time get your information from 2.uk.pool.ntp.org
+your current time zone is BST
